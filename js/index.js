@@ -36,7 +36,7 @@ new Swiper(".swiper", {
     pagination: {
         el: ".swiper-pagination",
     },
-    mousewheel: true,
+    mousewheel: false,
     keyboard: true,
     autoplay: {
         delay: 5000,
